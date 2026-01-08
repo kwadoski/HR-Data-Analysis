@@ -1,0 +1,104 @@
+﻿Staff_ID,Staff_Name,Sex,Phone_No,Address,Department,Date_of_Appointment,Salary,Promotion,Date_of_Promotion,Bonus,State,City,Country
+STAFF001,Michael Miller,Male,616-793-4145,807 Main St,Marketing,12/24/2022,75837.3,Yes,3/13/2022,2364.86,TX,Chicago,USA
+STAFF002,Mary Johnson,Male,519-226-7224,140 Oak St,Finance,1/23/2022,75208.35,No,,2727.56,FL,Houston,USA
+STAFF003,Alice Wilson,Female,596-227-8518,638 Elm St,Engineering,11/3/2022,73885.1,Yes,12/17/2022,2080.03,CA,Miami,USA
+STAFF004,Jennifer Wilson,Female,980-124-4719,867 Main St,Finance,1/17/2022,74102.13,No,,4294.23,NY,Chicago,USA
+STAFF005,Robert Davis,Female,202-232-1530,889 Elm St,HR,6/20/2022,41714.1,Yes,3/2/2022,3880.19,IL,Los Angeles,USA
+STAFF006,Linda Johnson,Female,985-450-2164,549 Oak St,Marketing,8/1/2022,63056.93,No,,2787.99,CA,Miami,USA
+STAFF007,Christopher Williams,Female,612-904-8652,435 Elm St,Marketing,5/25/2022,71036.95,Yes,7/14/2022,1718.62,CA,Los Angeles,USA
+STAFF008,Michael Taylor,Female,486-122-9917,117 Oak St,Operations,12/18/2022,48962.37,No,,1479.91,CA,Chicago,USA
+STAFF009,Jessica Taylor,Male,130-342-7679,406 Main St,Engineering,3/27/2022,70458.2,No,,4278.86,TX,Chicago,USA
+STAFF001,Michael Miller,Male,616-793-4145,807 Main St,Marketing,12/24/2022,75837.3,Yes,3/13/2022,2364.86,TX,Chicago,USA
+STAFF002,Mary Johnson,Malle,519-226-7224,140 Oak St,Finance,1/23/2022,75208.35,No,,2727.56,FL,Houston,USA
+STAFF003,Alice Wilson,Female,596-227-8518,638 Elm St,Engineering,11/3/2022,73885.1,Yes,12/17/2022,2080.03,CA,Miami,USA
+STAFF010,David Miller,Female,337-681-8755,927 Elm St,Engineering,7/11/2022,40522.17,No,,1669.72,NY,New York,USA
+STAFF011,John Johnson,Female,295-349-4628,728 Main St,Operations,5/27/2022,62256.74,No,,1756.28,FL,Houston,USA
+STAFF012,John Miller,Male,688-971-3874,295 Elm St,Finance,8/9/2022,47163.29,No,,4113.81,TX,New York,USA
+STAFF013,Robert Johnson,Male,143-595-7686,647 Main St,Operations,8/13/2022,40428.3,No,,4334.23,CA,Chicago,USA
+STAFF014,Mary Davis,Male,798-646-3776,949 Main St,HR.,4/30/2022,67577.71,No,,3320.03,IL,Los Angeles,USA
+STAFF015,Robert Miller,Male,408-369-2889,292 Oak St,Engineering,4/16/2022,79902.82,No,,3763.38,IL,Los Angeles,USA
+STAFF016,Linda Davis,Male,529-155-8230,896 Oak St,Operations,5/24/2022,46974.11,Yes,2/21/2022,3075.84,NY,New York,USA
+STAFF017,Robert Wilson,Female,704-782-7272,239 Main St,Marketing,1/12/2022,61239.98,Yes,10/29/2022,2400.45,TX,Los Angeles,USA
+STAFF018,Michael Davis,Male,183-142-3455,617 Elm St,Marketing,9/27/2022,71745.1,No,,4560.39,CA,Miami,USA
+STAFF019,Mary Miller,Female,843-894-7128,348 Main St,Marketing,6/19/2022,59861.17,No,,4148.86,CA,New York,USA
+STAFF020,Robert Taylor,Male,293-563-6451,359 Main St,Finance,3/4/2022,47845.68,Yes,7/3/2022,3556.54,TX,New York,USA
+STAFF021,Mary Davis,Female,894-992-1044,965 Main St,Marketing,5/31/2022,56998.07,Yes,8/9/2022,3661.23,CA,Chicago,USA
+STAFF022,Mary Wilson,Male,896-209-7281,650 Elm St,Operations,9/17/2022,46649.65,No,,4938.69,TX,Miami,USA
+STAFF023,David Smith,Female,461-579-1651,529 Main St,Marketing,12/9/2022,71114.94,Yes,10/15/2022,2941.75,IL,New York,USA
+STAFF024,Christopher Davis,Female,973-476-7592,352 Main St,HR,3/29/2022,52214.11,No,,3793.62,IL,Chicago,USA
+STAFF025,Michael Brown,Female,121-561-5822,509 Elm St,HR,9/27/2022,66646.15,No,,3910.96,NY,Chicago,USA
+STAFF026,Alice Jones,Female,509-540-4855,951 Elm St,Engineering,9/25/2022,47794.5,No,,4610.53,FL,Houston,USA
+STAFF027,Jessica Smith,Male,878-863-1143,539 Oak St,Finance,4/1/2022,44078.13,Yes,2/17/2022,2071.66,FL,Chicago,USA
+STAFF028,Jennifer Miller,Female,893-360-6127,750 Main St,Engineering,3/22/2022,43496.82,Yes,10/17/2022,1965.89,TX,Houston,USA
+STAFF029,Michael Davis,Male,156-563-1265,340 Oak St,Engineering,9/17/2022,40127.23,Yes,1/9/2021,4095.32,CA,Houston,USA
+STAFF030,Christopher Williams,Female,449-130-8199,709 Oak St,Finance,3/22/2022,72213.7,No,,1640.84,IL,New York,USA
+STAFF031,Alice Davis,Male,585-502-5404,653 Oak St,Marketing,1/2/2022,62941.08,Yes,3/1/2022,3928.19,CA,Chicago,USA
+STAFF032,Michael Smith,Male,526-859-4482,908 Main St,Finance,1/12/2022,77406.08,Yes,2/3/2022,4456.98,TX,Miami,USA
+STAFF033,David Smith,Male,821-111-8816,948 Main St,Operations,3/22/2022,73795.3,No,,2375.84,NY,New York,USA
+STAFF034,John Miller,Female,788-861-5122,106 Main St,HR,1/11/2022,69581.22,Yes,3/3/2022,3688.48,FL,Miami,USA
+STAFF035,Linda Smith,Male,133-781-8158,316 Elm St,Engineering,3/21/2022,45627.5,Yes,6/22/2022,2762.99,FL,Chicagoo,USA
+STAFF036,Robert Davis,Male,425-274-8736,638 Main St,Marketing,8/25/2022,76636.39,No,,2792.71,CA,Chicago,USA
+STAFF037,Alice Wilson,Male,794-836-4300,420 Oak St,Finance,5/27/2022,68158.14,No,,4874.93,CA,Chicago,USA
+STAFF038,Jennifer Smith,Male,665-588-7183,710 Main St,Engineering,5/20/2022,57340.43,No,,2275.28,CA,Miami,USA
+STAFF039,Alice Johnson,Female,493-208-7533,118 Elm St,Operations,11/4/2022,66259.39,Yes,2/2/2021,2761.55,FL,Chicago,USA
+STAFF040,Jennifer Taylor,Male,195-881-8078,746 Elm St,Marketing,6/29/2022,73614.04,Yes,6/5/2022,3851.4,CA,Miami,USA
+STAFF041,Jessica Brown,Female,431-127-6055,239 Elm St,Marketing,4/13/2022,68088.57,No,,3235.77,FL,Houston,USA
+STAFF042,Jessica Brown,Male,251-903-9771,425 Main St,Marketing,9/4/2022,53721.37,No,,1696.88,IL,Miami,USA
+STAFF043,Michael Johnson,Female,434-885-9633,326 Elm St,Finance,5/24/2022,53229.2,No,,4551.29,NY,Chicago,USA
+STAFF044,Christopher Johnson,Female,597-630-4194,586 Main St,HR,11/23/2022,64831.07,No,,1013.74,TX,Houston,USA
+STAFF045,Jennifer Davis,Male,924-665-6982,876 Main St,Engineering,12/18/2022,53140.14,Yes,10/5/2022,1628.81,CA,Chicago,USA
+STAFF046,Alice Taylor,Female,740-524-4067,675 Main St,Engineering,2/18/2022,62442.41,Yes,4/27/2022,1998.59,IL,Miami,USA
+STAFF047,Michael Moore,Female,117-420-9797,624 Oak St,Engineering,12/2/2022,70931.21,No,,3980.54,TX,Miami,USA
+STAFF048,Christopher Taylor,Female,296-560-4769,829 Elm St,Marketing,10/24/2022,71859.67,No,,3734.84,IL,Los Angeles,USA
+STAFF049,Jessica Williams,Female,673-198-7554,978 Elm St,Engineering,7/1/2022,46790.05,Yes,12/9/2022,4375.33,FL,Chicago,USA
+STAFF050,Mary Davis,Male,325-295-4646,105 Elm St,Marketting,5/20/2022,55033.4,Yes,12/27/2022,4745.89,CA,Miami,USA
+STAFF051,Christopher Johnson,Male,221-756-8275,841 Oak St,Engineering,1/12/2022,42628.48,Yes,11/12/2022,2422.01,CA,Chicago,USA
+STAFF052,Robert Taylor,Female,413-137-3047,500 Elm St,Engineering,10/5/2022,44420.96,No,,3253.15,FL,New York,USA
+STAFF053,Jessica Davis,Female,974-226-4093,141 Oak St,Operations,6/3/2022,62611.67,Yes,2/2/2021,3704.97,FL,Miami,USA
+STAFF054,Jennifer Moore,Male,579-929-3668,109 Oak St,Operations,12/11/2022,61817.29,No,,1443.93,CA,Chicago,USA
+STAFF055,John Brown,Male,452-249-4985,631 Main St,HR,1/31/2022,41839.91,Yes,9/6/2022,1677.01,NY,Chicago,USA
+STAFF056,Alice Moore,Female,461-776-1344,281 Oak St,Finance,12/30/2022,57720.92,Yes,11/7/2022,2181.01,IL,Houston,USA
+STAFF057,Jennifer Smith,Male,210-962-4902,144 Oak St,Engineering,10/23/2022,41269.75,Yes,5/30/2022,3055.91,TX,Chicago,USA
+STAFF058,David Smith,Male,166-673-4828,896 Main St,Marketing,7/11/2022,53708.38,Yes,11/7/2022,4737.61,FL,Houston,USA
+STAFF059,Robert Jones,Female,369-754-9084,591 Elm St,Operations,2/21/2022,59507.33,Yes,3/15/2022,2442.9,NY,Chicago,USA
+STAFF060,Linda Johnson,Male,854-456-8796,248 Oak St,Engineering,12/23/2022,41996.7,Yes,3/15/2022,2607.18,TX,Miami,USA
+STAFF061,Christopher Taylor,Male,128-292-7936,874 Oak St,Operations,6/27/2022,58324.72,Yes,3/27/2022,1314.06,CA,Miami,USA
+STAFF062,Alice Moore,Male,437-701-3611,141 Elm St,Finance,10/28/2022,40025.71,No,,3242.48,FL,Los Angeles,USA
+STAFF063,Michael Taylor,Male,681-770-9675,628 Elm St,HR,11/27/2022,55606.37,Yes,11/18/2022,3702.8,FL,Houston,USA
+STAFF064,Mary Johnson,Female,905-264-7663,176 Elm St,Marketing,8/8/2022,55136.63,Yes,4/20/2022,1986.6,NY,New York,USA
+STAFF065,Mary Williams,Male,704-597-1849,288 Elm St,Finance,10/23/2022,73460.59,Yes,8/27/2022,1617.63,CA,Chicago,USA
+STAFF066,David Jones,Male,303-990-6229,443 Oak St,Marketing,7/17/2022,74012.17,No,,1255.14,FL,Miami,USA
+STAFF067,Mary Davis,Male,514-608-9577,276 Main St,Operations,11/12/2022,46926.83,No,,2270.63,CA,New York,USA
+STAFF068,David Williams,Female,290-110-4513,166 Elm St,Marketing,2/15/2022,75046.67,No,,1988.06,TX,Chicago,USA
+STAFF069,David Taylor,Female,247-774-2407,650 Main St,Finance,12/14/2022,79125.58,Yes,6/19/2022,3123.15,FL,New York,USA
+STAFF070,Christopher Jones,Male,798-664-1325,147 Elm St,Finance,5/25/2022,72146.95,No,,3229.71,CA,New York,USA
+STAFF071,Jessica Jones,Male,154-451-2081,386 Oak St,Operations,11/15/2022,69890.73,Yes,7/7/2022,1361.92,NY,Chicago,USA
+STAFF072,Michael Moore,Female,507-382-4957,692 Main St,Marketing,12/4/2022,40271.98,Yes,12/12/2022,2845.73,FL,Chicago,USA
+STAFF073,John Williams,Male,960-488-8891,593 Elm St,HR,1/5/2022,60043.64,No,,2418.27,IL,Miami,USA
+STAFF074,Alice Taylor,Female,837-648-4622,709 Oak St,HR,11/3/2022,44188.49,Yes,7/29/2022,2190.75,IL,Miami,USA
+STAFF075,Michael Davis,Male,837-404-7864,180 Elm St,HR,4/21/2022,45688.76,Yes,10/17/2022,4227.53,CA,Chicago,USA
+STAFF076,Mary Miller,Male,578-834-3667,783 Oak St,Marketing,6/22/2022,54136.98,No,,4095.2,FL,Los Angeles,USA
+STAFF077,Jessica Taylor,Female,821-454-9921,986 Oak St,Operations,2/22/2022,41987.13,No,,2847.09,CA,Houston,USA
+STAFF078,Michael Moore,Female,699-658-9506,709 Oak St,Engineering,5/22/2022,41579.62,No,,3864.92,NY,New York,USA
+STAFF079,Alice Brown,Male,658-544-8184,115 Oak St,Marketing,10/7/2022,49396.53,No,,1111.15,NY,New York,USA
+STAFF080,Alice Williams,Female,485-123-1393,586 Oak St,Finance,9/11/2022,63770.8,No,,1438.83,CA,New York,USA
+STAFF081,John Williams,Female,774-559-9661,904 Main St,Marketing,7/5/2022,55784.24,Yes,7/24/2022,3316.33,FL,New York,USA
+STAFF082,John Williams,Male,115-180-7562,282 Oak St,HR,3/25/2022,75307.57,Yes,3/9/2022,1811.11,IL,Los Angeles,USA
+STAFF083,Michael Johnson,Female,855-510-8144,719 Elm St,Operations,9/27/2022,58425.41,Yes,12/1/2022,2139,CA,Houston,USA
+STAFF084,Mary Taylor,Female,104-687-8483,557 Oak St,Operations,7/23/2022,79654.43,No,,3231.59,CA,Miami,USA
+STAFF085,Michael Jones,Female,600-198-6659,802 Oak St,Operations,10/2/2022,74142.99,Yes,11/3/2022,3534.46,FL,Los Angeles,USA
+STAFF086,Jennifer Wilson,Female,441-934-1085,830 Oak St,Engineering,9/29/2022,42737.09,Yes,7/6/2022,3186.99,IL,Houston,USA
+STAFF087,Jessica Williams,Male,753-619-2813,867 Oak St,Operations,10/8/2022,41665.29,No,,2134.43,CA,Houston,USA
+STAFF088,John Wilson,Male,838-900-1409,929 Elm St,Engineering,6/29/2022,41738.3,No,,4903.97,CA,Houston,USA
+STAFF089,Christopher Taylor,Female,574-408-3929,534 Elm St,Engineering,5/8/2022,70615.78,Yes,10/26/2022,4206.18,TX,Houston,USA
+STAFF090,John Brown,Female,919-924-8646,712 Elm St,HR,1/2/2022,58945.76,Yes,5/19/2022,3799.62,CA,Miami,USA
+STAFF091,Jennifer Brown,Female,170-237-8869,367 Main St,HR,3/23/2022,59165.81,No,,3170.74,TX,New York,USA
+STAFF092,Linda Moore,Male,714-805-5184,921 Elm St,Operations,3/1/2022,70837.24,Yes,7/18/2022,3193.25,NY,Los Angeles,USA
+STAFF093,John Moore,Female,510-355-3956,743 Main St,Finance,2/3/2022,73461.11,No,,1023.65,FL,Chicago,USA
+STAFF094,John Smith,Female,971-163-4759,660 Elm St,Marketing,8/31/2022,55840.86,No,,2590.63,IL,Los Angeles,USA
+STAFF095,Mary Smith,Female,517-392-9802,103 Oak St,Marketing,4/7/2022,78177.38,Yes,5/31/2022,3636.31,FL,Los Angeles,USA
+STAFF096,Michael Brown,Male,687-988-4232,356 Elm St,Engineering,2/19/2022,65593.12,No,,2135.34,CA,Miami,USA
+STAFF097,Mary Taylor,Male,702-730-1068,815 Main St,Finance,11/27/2022,44650.22,No,,3824.01,CA,Los Angeles,USA
+STAFF098,David Wilson,Male,995-269-9013,296 Elm St,HR,10/12/2022,68065.63,Yes,8/23/2022,2059.33,TX,Houston,USA
+STAFF099,Jessica Moore,Female,734-260-9104,715 Elm St,Operations,6/27/2022,49625.3,Yes,7/18/2022,4315.5,IL,Chicago,USA
+STAFF100,Jennifer Taylor,Male,586-168-6396,985 Oak St,HR,4/17/2022,59476.16,Yes,9/16/2022,1191.33,FL,Miami,USA
