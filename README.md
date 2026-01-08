@@ -18,33 +18,23 @@ The dashboard answers key business questions such as staff strength, salary spen
 
 The dataset contains employee-level HR information with the following columns:
 
-Staff_ID
+## 📂 Dataset Description
 
-## Staff_Name
+*Dataset Name:* HR_data.csv  
 
-Sex
+| Column Name | Description |
+|--------------|-------------|
+| StaffID | Unique identifier for each staff |
+| Staff_Name | Name of staff |
+| Sex | Staff gender |
+| Department | Various depart of staff |
+| Date_of_Appointment | Staff Date of apointment |
+| Salary | Staff salary |
+| Promotion | Promotion status |
+| Date_of_Promotion | Staff promotion date |
+| City | staff city of residence |
 
-Phone_No
-
-Address
-
-Department
-
-Date_of_Appointment
-
-Salary
-
-Promotion
-
-Date_of_Promotion
-
-Bonus
-
-State
-
-City
-
-Country
+---
 
 ## 🎯 Objectives / Business Questions Answered
 
