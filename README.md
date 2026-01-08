@@ -144,9 +144,9 @@ Promotion analysis
 ---
 
 🤝 Connect with Me
-Author: Chikwado Njoku Email: chikwadosearch@yahoo.com
-PContact: +2348068409402
-LinkedIn: www.linkedin.com/in/chikwadonjoku
-GitHub: https://github.com/kwadoski/HR-Data-Analysis
+*Author:* Chikwado Njoku Email: chikwadosearch@yahoo.com
+*PContact:* +2348068409402
+*LinkedIn:* www.linkedin.com/in/chikwadonjoku
+*GitHub:* https://github.com/kwadoski/HR-Data-Analysis
 
-Diversity and inclusion reporting
+
